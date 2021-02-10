@@ -1,0 +1,64 @@
+
+.links line {
+  stroke:black;
+  stroke-opacity: 0.6;
+  stroke-width: 1.6;
+}
+
+.nodes circle {
+  stroke: black;
+  stroke-width: 2px;
+}
+.link { stroke:black; stroke-opacity: .6; stroke-width: 10px; }
+text {
+  font-family: sans-serif;
+  font-size: 25px;
+ 
+}
+#upload{
+  padding: 7.0rem;
+  height: 30rem;
+}   
+
+.nav-item{
+  text-emphasis-color: black;
+}
+#button{
+ 
+  margin-left: 80rem;
+  padding:20px;
+  width: 30px;
+  height:20px;
+  
+}
+#btn1{
+  margin-left: 80rem;
+  padding: 20px;
+  top:80px;
+}
+
+#mainNav{
+  background-color: cadetblue;
+  position: sticky;
+  color:black;
+  
+
+}
+
+.contact-section {
+  padding-top: 7rem;
+}
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: top;
+  overflow: hidden;
+}
+.svg-content {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

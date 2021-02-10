@@ -1,0 +1,35 @@
+body{
+    background-image: url("src/assets/img/cool-background.png");
+}
+#upload{
+    padding: 7.0rem;
+    height: 30rem;
+}   
+
+.nav-item{
+    text-emphasis-color: black;
+}
+
+
+
+#mainNav{
+    background-color: cadetblue;
+    position: sticky;
+    color:black;
+    
+
+}
+
+.contact-section {
+    padding-top: 7rem;
+}
+
+#btn1 ,#btn2,#btn3 {
+    padding-right: 5rem;
+    margin: 20px;
+    box-shadow: 9px 16px 16px -7px #276873;
+   
+}
+
+
+
